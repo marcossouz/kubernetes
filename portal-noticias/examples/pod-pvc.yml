@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-pvc
+spec:
+  containers:
+    - name: nginx-container
+      image: nginx:latest
+      volumeMounts:
+        - mountPath: /volume-dentro-do-container
+          name: pvc-volume
+      resources:
+        limits:
+          memory: "256Mi"
+          cpu: "0.3"
+  volumes:
+    - name: pvc-volume
+      persistentVolumeClaim:
+        claimName: pvc

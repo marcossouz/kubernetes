@@ -103,11 +103,12 @@
 ![Kubeview](https://user-images.githubusercontent.com/18218791/166169752-88dc7494-ca31-499d-87a4-f88034cf58d1.png)
 
 ### Frontend - Portal Noticias
-![Login](https://user-images.githubusercontent.com/18218791/166169787-3d90ff05-db27-4d11-bbda-3b689167b22b.png)
-![Front](https://user-images.githubusercontent.com/18218791/166169807-c17bd499-c6c0-48f5-88d1-8c9428e816c7.png)
+![Portal Noticias](https://user-images.githubusercontent.com/18218791/166169877-c24f76f1-9c0d-468d-bc34-49ed58cf13ec.png)
 
 ### Backend - Sistema + API
-![Sitema e API](https://user-images.githubusercontent.com/18218791/166169877-c24f76f1-9c0d-468d-bc34-49ed58cf13ec.png)
+![Login](https://user-images.githubusercontent.com/18218791/166169787-3d90ff05-db27-4d11-bbda-3b689167b22b.png)
+![Sistema](https://user-images.githubusercontent.com/18218791/166169807-c17bd499-c6c0-48f5-88d1-8c9428e816c7.png)
+
 
 ### DOKS
 ##### Cluster
